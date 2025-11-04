@@ -1,0 +1,6 @@
+<svg width="160" height="48" viewBox="0 0 160 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="160" height="48" rx="12" fill="#141426"/>
+  <path d="M22 34l8-20h6l8 20h-6l-1.2-3h-8.6l-1.2 3h-5z" fill="#2AFF9F"/>
+  <path d="M64 16h6l4 10 4-10h6l-7 18h-6l-7-18z" fill="#7F5DFF"/>
+  <text x="92" y="30" fill="#F2F2FA" font-family="'Manrope', 'Inter', sans-serif" font-weight="600" font-size="16">AccelCity</text>
+</svg>

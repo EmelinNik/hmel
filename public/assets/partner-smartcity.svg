@@ -1,0 +1,12 @@
+<svg width="160" height="48" viewBox="0 0 160 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="160" height="48" rx="12" fill="#151528"/>
+  <circle cx="32" cy="24" r="14" fill="url(#paint0_linear_1_4)" opacity="0.85"/>
+  <path d="M32 14l4 6h-8l4-6zm0 20l-4-6h8l-4 6z" fill="#0F0F13" opacity="0.7"/>
+  <text x="62" y="30" fill="#E5E5F5" font-family="'Manrope', 'Inter', sans-serif" font-weight="600" font-size="16">SmartCity</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_4" x1="20" y1="14" x2="44" y2="34" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2AFF9F"/>
+      <stop offset="1" stop-color="#7F5DFF"/>
+    </linearGradient>
+  </defs>
+</svg>

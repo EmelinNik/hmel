@@ -1,0 +1,6 @@
+<svg width="160" height="48" viewBox="0 0 160 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="160" height="48" rx="12" fill="#141422"/>
+  <path d="M28 16h8v12c0 4.418-3.582 8-8 8s-8-3.582-8-8V16h8v12c0 1.105.895 2 2 2s2-.895 2-2V16z" fill="#7F5DFF"/>
+  <path d="M54 16h8v4h-4v16h-8V20h-4v-4h8V8h4v8z" fill="#2AFF9F"/>
+  <text x="84" y="30" fill="#F5F5FA" font-family="'Manrope', 'Inter', sans-serif" font-weight="600" font-size="16">UCity</text>
+</svg>

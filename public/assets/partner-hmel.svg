@@ -1,0 +1,10 @@
+<svg width="160" height="48" viewBox="0 0 160 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="160" height="48" rx="12" fill="url(#paint0_linear_1_3)"/>
+  <text x="24" y="30" fill="#05050A" font-family="'Manrope', 'Inter', sans-serif" font-weight="700" font-size="20">HMEL</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_3" x1="16" y1="8" x2="140" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2AFF9F"/>
+      <stop offset="1" stop-color="#7F5DFF"/>
+    </linearGradient>
+  </defs>
+</svg>
