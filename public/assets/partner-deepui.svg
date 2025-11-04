@@ -1,0 +1,6 @@
+<svg width="160" height="48" viewBox="0 0 160 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="160" height="48" rx="12" fill="#141422"/>
+  <path d="M28 16a12 12 0 110 24 12 12 0 010-24zm0 8a4 4 0 100 8 4 4 0 000-8z" fill="#2AFF9F"/>
+  <path d="M48 16h8v16h-8V16zm12 0h8v8h4v8h-12V16z" fill="#7F5DFF"/>
+  <text x="84" y="30" fill="#F8F8FF" font-family="'Manrope', 'Inter', sans-serif" font-weight="600" font-size="16">DeepUI</text>
+</svg>

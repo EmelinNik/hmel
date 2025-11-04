@@ -1,0 +1,6 @@
+<svg width="160" height="48" viewBox="0 0 160 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="160" height="48" rx="12" fill="#17172A"/>
+  <path d="M20 30l12-12 12 12-12 12-12-12z" fill="#2AFF9F" opacity="0.8"/>
+  <path d="M32 18l6-6 6 6-6 6-6-6z" fill="#7F5DFF" opacity="0.8"/>
+  <text x="64" y="30" fill="#F4F4FA" font-family="'Manrope', 'Inter', sans-serif" font-weight="600" font-size="15">Neighbourhood</text>
+</svg>
